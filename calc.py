@@ -8,10 +8,10 @@ dex_to_str_percent = 8.06  # x DEX% = 1% STR
 one_atk = 4.06             # 1 ATK = x STR
 
 # Flame Stats
-str_amt = 60     # Amount of STR
-dex_amt = 20      # Amount of DEX
-atk_amt = 3      # Amount of ATK
-as_amt = 5  # Amount of All Stat %
+str_amt = 60  # Amount of STR
+dex_amt = 20  # Amount of DEX
+atk_amt = 3   # Amount of ATK
+as_amt = 5    # Amount of All Stat %
 
 
 total_strength = str_amt + floor(as_amt * one_percent_as)
