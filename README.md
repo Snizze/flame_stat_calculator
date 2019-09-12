@@ -9,7 +9,7 @@ In specific a player must know how much:
 * X Main Stat =  1 All Stat
 * X Main Stat = 1% All Stat
 * X Main Stat = 1 Attack
-* X Secondary/Tertiary Stat = 1 Main Stat
+* X Secondary Stat = 1 Main Stat
 
 In addition to knowing your stat equivalents a player must also have the flame they wish to calculate on hand.
 
