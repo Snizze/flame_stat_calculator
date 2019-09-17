@@ -13,10 +13,10 @@ input_main_to_secondary = float(input("How much secondary stat is equivalent to 
 input_one_atk = float(input("How much main stat is one attack equivalent to: "))
 
 # Input Flame Stats
-input_main_amt = float(input("How much main stat is the flame worth: "))
-input_secondary_amt = float(input("How much secondary stat is the flame worth: "))
-input_atk_amt = float(input("How much attack is the flame worth: "))
-input_as_amt = float(input("How much all stat% is the flame worth: "))
+input_main_amt = float(input("How much main stat is on the flame: "))
+input_secondary_amt = float(input("How much secondary stat is on the flame: "))
+input_atk_amt = float(input("How much attack is on the flame: "))
+input_as_amt = float(input("How much all stat% is on the flame: "))
 
 
 total_strength = input_main_amt + floor(input_as_amt * input_one_percent_as)
