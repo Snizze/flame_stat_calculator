@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="items">
+    <file>eternalFlame.png</file>
+    <file>arcaneKnuckle.png</file>
+  </qresource>
+</RCC>

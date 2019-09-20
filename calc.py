@@ -7,7 +7,6 @@ from math import floor
 # one_atk = 4.06             # 1 ATK = x STR
 
 # Input Stat Equivalents
-input_one_as = float(input("How much is one all stat equivalent to in main stat: "))
 input_one_percent_as = float(input("How much is one all stat% equivalent to in main stat: "))
 input_main_to_secondary = float(input("How much secondary stat is equivalent to one main stat: "))
 input_one_atk = float(input("How much main stat is one attack equivalent to: "))
